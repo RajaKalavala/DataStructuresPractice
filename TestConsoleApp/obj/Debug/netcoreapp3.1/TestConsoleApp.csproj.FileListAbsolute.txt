@@ -1,0 +1,14 @@
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.exe
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.deps.json
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.json
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.dev.json
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.dll
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.pdb
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.AssemblyReference.cache
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfoInputs.cache
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfo.cs
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.dll
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.pdb
+D:\Raja\C#\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.genruntimeconfig.cache
